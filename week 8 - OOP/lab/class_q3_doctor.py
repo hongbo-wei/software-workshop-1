@@ -5,6 +5,16 @@ Conducts an interactive session of nondirective psychotherapy.
 Adds a history list of earlier patient sentences, 
 which can be chosen for replies to shift the conversation to an earlier topic. 
 """ 
+'''
+Restructure this program according to the
+model/view pattern so that these areas of responsibility are
+assigned to separate sets of classes. The program should include
+a Doctor class with an interface that allows one to obtain a
+greeting, a signoff message, and a reply to a patient's string. The
+rest of the program, in a separate main program module, handles
+the user's interactions with the Doctor object. You may develop
+either a terminal-based user interface or a GUI.
+'''
 import random 
 history = [] 
 hedges = ("Please tell me more.", 
