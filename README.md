@@ -1,2 +1,2 @@
 # software-workshop-1
-Software Workshop 1 - Artificial Intelligence and Computer Science MSc at the University of Birmingham Dubai
+LM Software Workshop 1 (34153, 34182, 34168, 36990) at the University of Birmingham Dubai
